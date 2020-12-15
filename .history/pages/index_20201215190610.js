@@ -1,19 +1,11 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 
-export default function Home()
-{
-  return(
-    <div class="container mx-auto">iLobatoDev</div>
-  );
-}
-
-/*
 export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Lobato Developer</title>
+        <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -71,4 +63,3 @@ export default function Home() {
     </div>
   )
 }
-*/
