@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 export default function Home()
 {
   return(
-    <div class="vh-100 vw-100">
+    <div class="w-full h-full">
       <div class="container">
         <div class="mx-auto">Lobato</div>
       </div>
