@@ -20,7 +20,7 @@ export default function Home() {
 							</div>
 						</div>
 
-						<a href="#" className={styles.btn-verde} class="btn btn-secondary">Sobre mim</a>
+						<a href="#" class="btn btn-secondary btn-verde">Sobre mim</a>
 						<a href="#" class="btn btn-secondary btn-verde">Contato</a></div>
 
 					<footer class="mt-3 text-white text-center">Todos os direitos reservados ©</footer>
