@@ -4,13 +4,13 @@ import styles from '../styles/Home.module.css'
 export default function Home()
 {
   return(
-    <div class="w-full h-full">
+    <div class="w-screen h-screen	">
       <Head>
         <title>Lobato Developer</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>
+      <main class="flex justify-items-center align-center">
         <div class="container">
           <div class="mx-auto">Lobato</div>
         </div>
