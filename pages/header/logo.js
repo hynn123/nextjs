@@ -8,11 +8,11 @@ class Logo extends Component
 		return (
 		<div>
 			<Head>
-			<title>Lobato Developer</title>
-			<link rel="icon" href="/favicon.ico" />
-		</Head>
+				<title>Lobato Developer</title>
+				<link rel="icon" href="/favicon.ico" />
+			</Head>
 		
-		<div>Logo</div>
+			<div>Logo</div>
 		</div>
 		);
 	}

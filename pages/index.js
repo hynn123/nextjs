@@ -1,4 +1,4 @@
-import Logo from 'pages/header/logo'
+import Logo from '../pages/header/logo'
 import styles from '../styles/Home.module.css'
 
 export default function Home()
