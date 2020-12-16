@@ -5,6 +5,7 @@ class Logo extends Component
 {
 	render()
 	{
+		return (
 		<div>
 			<Head>
 			<title>Lobato Developer</title>
@@ -13,6 +14,7 @@ class Logo extends Component
 		
 		<div>Logo</div>
 		</div>
+		);
 	}
 }
 
