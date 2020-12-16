@@ -5,6 +5,11 @@ export default function Home()
 {
   return(
     <div class="w-full h-full">
+      <Head>
+        <title>Lobato Developer</title>
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
+      
       <div class="container">
         <div class="mx-auto">Lobato</div>
       </div>
