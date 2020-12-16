@@ -4,24 +4,20 @@ import styles from '../styles/Home.module.css'
 export default function Home()
 {
   return(
-    <div class="w-screen h-screen	">
+    <div>
       <Head>
         <title>Lobato Developer</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main class="flex justify-items-center align-center">
+      <main class="w-screen h-screen flex justify-items-center align-center">
         <div class="container">
           <div class="mx-auto">Lobato</div>
         </div>
       </main>
 
       <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app" target="_blank" rel="noopener noreferrer">
           Powered by{' '}
           <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
         </a>
